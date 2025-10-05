@@ -1,0 +1,26 @@
+{
+  "name": "cirh4-laptop-viewer",
+  "version": "0.0.1",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@react-spring/three": "^9.7.3",
+    "@react-three/drei": "^9.88.7",
+    "@react-three/fiber": "^8.15.18",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "three": "^0.164.0",
+    "@react-spring/web": "^9.7.3"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.21",
+    "@types/react-dom": "^18.2.7",
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.2.0"
+  }
+}
